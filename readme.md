@@ -37,5 +37,5 @@ npm install jest-html-reporter
 # create test function, take sum.test.js as example
 
 # Run test
-npm run test
+npm run test <br>
 ![](../../../../var/folders/3b/c6z9gc0x6gqf24j7bf9fv5000000gn/T/TemporaryItems/NSIRD_screencaptureui_L9QDO2/Screen Shot 2021-12-14 at 12.44.32 PM.png)# JestAssignment
